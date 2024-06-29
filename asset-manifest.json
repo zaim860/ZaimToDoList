@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zaimToDoList/static/css/main.7ca69a98.css",
+    "main.js": "/zaimToDoList/static/js/main.fc9f4ded.js",
+    "index.html": "/zaimToDoList/index.html",
+    "main.7ca69a98.css.map": "/zaimToDoList/static/css/main.7ca69a98.css.map",
+    "main.fc9f4ded.js.map": "/zaimToDoList/static/js/main.fc9f4ded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca69a98.css",
+    "static/js/main.fc9f4ded.js"
+  ]
+}
